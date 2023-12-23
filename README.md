@@ -1,3 +1,3 @@
 # Competitive Programming
 
-Different problem solutions from kattis using python and cpp.
+Different solutions for problems of kattis using python and cpp.
